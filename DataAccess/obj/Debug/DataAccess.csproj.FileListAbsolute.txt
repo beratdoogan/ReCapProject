@@ -1,0 +1,9 @@
+C:\Users\asus\source\repos\ReCapProject\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\asus\source\repos\ReCapProject\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\asus\source\repos\ReCapProject\DataAccess\bin\Debug\Entities.dll
+C:\Users\asus\source\repos\ReCapProject\DataAccess\bin\Debug\Entities.pdb
+C:\Users\asus\source\repos\ReCapProject\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\ReCapProject\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\ReCapProject\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\asus\source\repos\ReCapProject\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\asus\source\repos\ReCapProject\DataAccess\obj\Debug\DataAccess.pdb

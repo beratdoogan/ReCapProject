@@ -1,0 +1,14 @@
+C:\Users\asus\source\repos\ReCapProject\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\asus\source\repos\ReCapProject\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\asus\source\repos\ReCapProject\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\asus\source\repos\ReCapProject\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\ReCapProject\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\ReCapProject\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\asus\source\repos\ReCapProject\ConsoleUI\obj\Debug\ConsoleUI.pdb
+C:\Users\asus\source\repos\ReCapProject\ConsoleUI\bin\Debug\Business.dll
+C:\Users\asus\source\repos\ReCapProject\ConsoleUI\bin\Debug\DataAccess.dll
+C:\Users\asus\source\repos\ReCapProject\ConsoleUI\bin\Debug\Entities.dll
+C:\Users\asus\source\repos\ReCapProject\ConsoleUI\bin\Debug\Business.pdb
+C:\Users\asus\source\repos\ReCapProject\ConsoleUI\bin\Debug\DataAccess.pdb
+C:\Users\asus\source\repos\ReCapProject\ConsoleUI\bin\Debug\Entities.pdb
+C:\Users\asus\source\repos\ReCapProject\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete

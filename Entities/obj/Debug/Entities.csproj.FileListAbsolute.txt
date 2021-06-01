@@ -1,0 +1,6 @@
+C:\Users\asus\source\repos\ReCapProject\Entities\bin\Debug\Entities.dll
+C:\Users\asus\source\repos\ReCapProject\Entities\bin\Debug\Entities.pdb
+C:\Users\asus\source\repos\ReCapProject\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\ReCapProject\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\ReCapProject\Entities\obj\Debug\Entities.dll
+C:\Users\asus\source\repos\ReCapProject\Entities\obj\Debug\Entities.pdb
